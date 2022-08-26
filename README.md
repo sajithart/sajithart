@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sajithart
-- 👀 I’m interested in ASP.NET C# Programming 
+- 👀 I’m interested in ASP.NET C# and Salesforce Programming 
 - 🌱 I’m currently learning  C#, HTML5 , CSS , Javascript
-- 💞️ I’m looking to collaborate on any C# Project
+- 💞️ I’m looking to collaborate on any C# or Salesforce Project
 - 📫 How to reach me ...Sajithart  on Github
 
 <!---
